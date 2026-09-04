@@ -4,4 +4,4 @@ Now can subtract a number from or add a number to the sum of the input numbers.
 Currently in **beta** stage. 
 
 # Warning
-AddingMachine is not guaranteed to work on versions of Python below 3.11 Use at your own risk. 
+AddingMachine is not guaranteed to work on versions of Python below 3.11. Use at your own risk. 
