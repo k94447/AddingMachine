@@ -1,4 +1,5 @@
 # COPYRIGHT 1997 k94447 Inc. DONUT STEEL
+#NOTE: Versions after v0.3.5 may become licenced.
 print("ADDINGMACHINE v0.3.0")
 print("====================")
 print('\n')
